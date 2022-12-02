@@ -1,0 +1,136 @@
+.u-block-9e5c-2 {
+    position: absolute;
+    bottom: 10px;
+}
+
+.u-block-9e5c-3 {
+    position: absolute;
+    left: 0;
+    width: 8px;
+    height: 8px;
+}
+
+.u-block-9e5c-4 {
+    position: absolute;
+    right: 0;
+    width: 8px;
+    height: 8px;
+}
+
+.u-section-1-1 {
+    background-image: none;
+}
+
+.u-section-1-1 .u-sheet-1 {
+    min-height: 1193px;
+}
+
+.u-section-1-1 .u-layout-wrap-1 {
+    margin-top: 59px;
+    margin-bottom: 0;
+}
+
+.u-section-1-1 .u-layout-cell-1 {
+    min-height: 400px;
+}
+
+.u-section-1-1 .u-container-layout-1 {
+    padding: 23px 0;
+}
+
+.u-section-1-1 .u-image-1 {
+    width: 438px;
+    height: 340px;
+    margin: 13px auto -7px;
+}
+
+.u-section-1-1 .u-layout-cell-2 {
+    min-height: 400px;
+}
+
+.u-section-1-1 .u-container-layout-2 {
+    padding: 30px;
+}
+
+.u-section-1-1 .u-text-1 {
+    margin-bottom: 0;
+    margin-top: 0;
+    font-size: 3rem;
+}
+
+.u-section-1-1 .u-text-2 {
+    font-size: 1.125rem;
+    margin: 59px 0 60px;
+}
+
+@media (max-width: 1199px) {
+    .u-section-1-1 .u-sheet-1 {
+        min-height: 1123px;
+    }
+
+    .u-section-1-1 .u-layout-wrap-1 {
+        position: relative;
+    }
+
+    .u-section-1-1 .u-layout-cell-1 {
+        min-height: 330px;
+    }
+
+    .u-section-1-1 .u-layout-cell-2 {
+        min-height: 330px;
+    }
+}
+
+@media (max-width: 991px) {
+    .u-section-1-1 .u-sheet-1 {
+        min-height: 1046px;
+    }
+
+    .u-section-1-1 .u-layout-cell-1 {
+        min-height: 253px;
+    }
+
+    .u-section-1-1 .u-image-1 {
+        width: 360px;
+        height: 279px;
+    }
+
+    .u-section-1-1 .u-layout-cell-2 {
+        min-height: 100px;
+    }
+}
+
+@media (max-width: 767px) {
+    .u-section-1-1 .u-sheet-1 {
+        min-height: 1479px;
+    }
+
+    .u-section-1-1 .u-layout-cell-1 {
+        min-height: 380px;
+    }
+
+    .u-section-1-1 .u-container-layout-2 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+@media (max-width: 575px) {
+    .u-section-1-1 .u-sheet-1 {
+        min-height: 1197px;
+    }
+
+    .u-section-1-1 .u-layout-cell-1 {
+        min-height: 239px;
+    }
+
+    .u-section-1-1 .u-image-1 {
+        width: 340px;
+        height: 264px;
+    }
+
+    .u-section-1-1 .u-text-2 {
+        margin-top: 519px;
+        margin-bottom: 0;
+    }
+}
